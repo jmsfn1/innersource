@@ -5,11 +5,11 @@ It's important to think about what success means to you. Have clear goals before
 ### Could you measure...
 - Time to market
 - 
-- Bug fix pull requests
+- 
 - Feature enhancement pull requests
 - Number of outside collaborators 
-- Number of clone or forks
-- Progression of development languages
+- 
+- 
 - Automation
 - Submodule usage
 
