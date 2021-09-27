@@ -4,8 +4,8 @@ It's important to think about what success means to you. Have clear goals before
 
 ### Could you measure...
 - Time to market
-- 
-- 
+- add one more
+- second
 - Feature enhancement pull requests
 - Number of outside collaborators 
 - no right or wrong
